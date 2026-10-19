@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>FriendsApp</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.friendsapp.ios</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Friends App requires microphone access for Random Audio/Video Calls, Celebrity Calls, and Customer Care Audio Calls.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Friends App requires camera access for User-to-User Random Video Calls and Celebrity Video Calls.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Friends App uses your location to show nearby concerts, meetups, and events.</string>
+</dict>
+</plist>

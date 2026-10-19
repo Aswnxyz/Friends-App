@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build & Next.js outputs
+.next/
+**/dist/
+**/build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS & Editor files
+.DS_Store
+**/.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android / Gradle / Xcode build artifacts
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+DerivedData/
+*.xcuserdata
+.build/
+**/.build/
